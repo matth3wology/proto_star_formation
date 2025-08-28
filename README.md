@@ -8,6 +8,8 @@ This repository contains a series of **Python toy simulations** that visualize t
 
 ## Files / Examples
 
+![Protostar Simulation](res/star_sim1.gif)
+
 1. **`2d_protostar.py`**  
    - A 2D simulation of gas and dust particles merging under gravity.  
    - Protostars form as particles merge and grow in mass.  
